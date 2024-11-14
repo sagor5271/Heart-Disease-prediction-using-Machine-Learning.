@@ -1,7 +1,9 @@
 # Heart-Disease-prediction-using-Machine-Learning.
 ![image](https://github.com/user-attachments/assets/be9ee04d-6e5b-4e27-bde6-42a609403527)
 The brief information about the approach is given in the following blog
+
 Introduction
+
 Heart diseases is a term covering any disorder of the heart. Heart diseases have become a major concern to deal with as studies show that the number of deaths due to heart diseases have increased significantly over the past few decades in India, in fact it has become the leading cause of death in India.
 
 A study shows that from 1990 to 2016 the death rate due to heart diseases have increased around 34 per cent from 155.7 to 209.1 deaths per one lakh population in India.
